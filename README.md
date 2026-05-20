@@ -88,7 +88,7 @@ The SQL queries cover:
 - Daily and hourly order trends
 - Top 5 and bottom 5 pizzas by revenue and quantity sold
 
-> See [`queries/pizza_sales_queries.sql`](queries/pizza_sales_queries.sql) for all queries.
+> See [`queries/pizza_sales_queries.sql`](pizza_sales_queries.sql) for all queries.
 
 ---
 
