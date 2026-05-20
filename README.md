@@ -1,6 +1,6 @@
 # 🍕 Earthfire Pizza — Sales Analysis Project
 
-![Dashboard Preview](Earthfire_Pizza_Sales_Dashboard.png.jpg)
+![Dashboard Preview](Earthfire_Pizza_Sales_Dashbord.png.jpg)
 
 ---
 
