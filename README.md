@@ -8,7 +8,7 @@
 
 This project presents a comprehensive analysis of **Earthfire Pizza's** sales data using **MySQL** for data querying and **Microsoft Excel** for interactive dashboard visualization.
 
-The goal was to uncover actionable business insights around revenue performance, customer ordering patterns, product popularity, and peak sales periods — all presented through a clean, interactive Excel dashboard.
+The goal was to uncover actionable business insights around revenue performance, customer ordering patterns, product popularity, and peak sales periods, all presented through a clean, interactive Excel dashboard.
 
 ---
 
