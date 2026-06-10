@@ -106,7 +106,7 @@ Based on the analysis:
 
 ## 👤 Author
 
-**Damilola** — [@dammy8369](https://github.com/dammy8369)
+**Damilola Buhari** — [@dammy8369](https://github.com/dammy8369)
 
 ---
 
